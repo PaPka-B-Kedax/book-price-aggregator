@@ -79,13 +79,13 @@ print(f"Собрано {len(chitai_gorod_data)} позиций.")
 print(f"\nВсего собрано: {len(all_results)} позиций.")
 print(f"\nСохраняем всё в csv файл.")
 
-with open("parser_price.csv", "w", newline="", encoding="utf-8") as file:
+with open("parser_books.csv", "w", newline="", encoding="utf-8") as file:
     fieldnames = ["Магазин", "Название", "Цена"]
     writer = csv.DictWriter(file, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(all_results)
 
-print("Файл parser_price.csv усешно создан!")
+print("Файл parser_books.csv усешно создан!")
 
      
 
