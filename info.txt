@@ -1,0 +1,11 @@
+https://www.labirint.ru/
+
+
+Контейнер - "div" class_="product-card need-watch watched gtm-watched"
+Название - <a href="/books/805594/" class="product-card__name" title="Дюна. Графический роман. Том 1">  Дюна. Графический роман. Том 1 </a>
+цена - <div class="product-card__price-current">  1 239 ₽</div>
+
+
+Контейнер - "article" class_="product-card product-card__view-type--base app-products-list__item"
+Название - <a href="/product/dyuna-2932480" class="product-card__title" title="Дюна (Фрэнк Герберт)">Дюна</a>
+Цена - <span data-v-a55b036d="" class="product-mini-card-price__price">499 ₽</span>
